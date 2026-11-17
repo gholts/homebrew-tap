@@ -2,5 +2,9 @@
   "momos": {
     "repository": "gholts/momos",
     "archive": "momos-{tag}-macos-arm64.tar.gz"
+  },
+  "nshidemyemail": {
+    "repository": "gholts/NSHideMyEmail",
+    "archive": "NSHideMyEmail-{tag}.tar.gz"
   }
 }
